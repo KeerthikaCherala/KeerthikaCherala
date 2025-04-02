@@ -1,31 +1,121 @@
-<h1 align="center">Hi 👋, I'm Keerthika Cherala</h1>
-<h3 align="center">Aspiring Software Engineer | CS Student at SR University | Cybersecurity & UI/UX Enthusiast | NOIEAS Research Presenter</h3>
+# 🪄✨ Hi, I'm Keerthika Cherala🧙‍♀️✨🪄
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthikacherala&label=Profile%20views&color=0e75b6&style=flat" alt="keerthikacherala" /> </p>
+### **Aspiring Software Engineer | Cybersecurity & UI/UX Wizard | NOIEAS Research Presenter**  
+
+> *"Happiness can be found even in the darkest of times, if one only remembers to turn on the light."* – Albus Dumbledore
+
+---
+
+📛 **About Me:**
+- ✨ Enthusiastic about Cybersecurity, UI/UX, and software development.
+- 🏠 Hogwarts House: Ravenclaw (because knowledge is power!)
+- ✨ I love blending creativity with technology.
+- 🎭 Always up for a spellbinding discussion on Cyber Threats & User Experience.
+
+### 📜 **Marauder’s Map (Contact Me)**  
+
+- 🏰 Reach me at: [cheralakeerthika@gmail.com](mailto:cheralakeerthika@gmail.com)  
+- 📜 My **Resume: [Resume](https://drive.google.com/file/d/1QfVBh7Zk0ELjOVgMjEMmBb-BkMycW66G/view?usp=sharing)** (hidden like the Room of Requirement!)  
+- 🦉 **Owl Post**: [LinkedIn](https://www.linkedin.com/in/keerthikacherala)  
+
+### 🏰 **Hogwarts GitHub Stats** 🦉  
+
+![Profile Views](https://komarev.com/ghpvc/?username=keerthika-cherala&color=yellow)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthikacherala" alt="keerthikacherala" /></a> </p>
 
-- 💬 Ask me about **Cyber Threats and attacks, User Interface and Experience**
+---
 
-- 📫 How to reach me **cheralakeerthika@gmail.com**
+### 🔮 **Magical Spells (Tech Skills)**  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TWEiFC4tu-vQKrOIPPytZnXNlKHoGkwr/view?usp=sharing](https://drive.google.com/file/d/1TWEiFC4tu-vQKrOIPPytZnXNlKHoGkwr/view?usp=sharing)
+### 🏆 Coding Languages & Databases
+<table>
+<tr>
+<td>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keerthikacherala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthikacherala" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/keerthika_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keerthika_7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keerthikach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keerthikach" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cheralakeerthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cheralakeerthika" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keerthika_cherala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthika_cherala" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keerthikacherala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keerthikacherala" height="30" width="40" /></a>
-</p>
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</td>
+</tr>
+</table>
+
+### 🪄 Cloud & DevOps
+<table>
+<tr>
+<td>
+
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+### 🎨 UI/UX & Web Development
+<table>
+<tr>
+<td>
+  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</td>
+</tr>
+</table>
+
+### ✨ Machine learning
+<table>
+<tr>
+<td>
+  
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+
+### ✨ **Wizardry in Action**  
+
+- 🏆 Contributor at **GirlScript Summer of Code**  
+- 🧙‍♀️ Mentor & Student Teaching Assistant  
+- 🔐 Cybersecurity Enthusiast (Defending against the Dark Arts!)  
+- 📜 Published **Research Paper on Fuzzy K-Means**  
+
+
+### 🎭 **Hogwarts House Sorting**  
+
+🦁 **Gryffindor** – Brave & Determined  
+🦅 **Ravenclaw** – Intellectual & Creative  
+🐍 **Slytherin** – Ambitious & Resourceful  
+🦡 **Hufflepuff** – Loyal & Hardworking  
+
+Which house do you belong to? Let me know! ⚡
+
+
+### 🏆 **Magical Artifacts**  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthikacherala&show_icons=true&locale=en&layout=compact" alt="keerthikacherala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthikacherala&show_icons=true&locale=en" alt="keerthikacherala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthikacherala&" alt="keerthikacherala" /></p>
+
+
+> 🪄 ✨ **Fun Fact:** My code might look like Parseltongue, but it works like magic! 🐍⚡
+
+
+
+
+
+
