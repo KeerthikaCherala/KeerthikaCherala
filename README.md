@@ -85,22 +85,13 @@
 </table>
 
 
-### ✨ **Wizardry in Action**  
+### ✨ **Wizardry in Action (Achievements)**  
 
 - 🏆 Contributor at **GirlScript Summer of Code**  
 - 🧙‍♀️ Mentor & Student Teaching Assistant  
 - 🔐 Cybersecurity Enthusiast (Defending against the Dark Arts!)  
 - 📜 Published **Research Paper on Fuzzy K-Means**  
 
-
-### 🎭 **Hogwarts House Sorting**  
-
-🦁 **Gryffindor** – Brave & Determined  
-🦅 **Ravenclaw** – Intellectual & Creative  
-🐍 **Slytherin** – Ambitious & Resourceful  
-🦡 **Hufflepuff** – Loyal & Hardworking  
-
-Which house do you belong to? Let me know! ⚡
 
 
 ### 🏆 **Magical Artifacts**  
